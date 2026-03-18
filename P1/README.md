@@ -20,7 +20,7 @@
 [Personas](Personas/Personas.pdf)
 
 ## 4.Journey map
-[Journey Map](P1/JourneyMap/JourneyMap.pdf)
+[Journey Map](JourneyMap/JourneyMap.pdf)
 
 ## 5.Usability review
 
