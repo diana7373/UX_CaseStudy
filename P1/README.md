@@ -17,6 +17,7 @@
 [Competitor Analysis](CompetitorAnalysis/CompetitorAnalysis.png)
 
 ## 3.Personas
+[Personas](Personas/personas.pdf)
 
 ## 4.Journey map
 
