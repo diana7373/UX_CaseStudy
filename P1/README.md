@@ -26,3 +26,4 @@
 [Usability Review](UsabilityReview/UR.pdf)
 
 ## 6.Briefing
+[Briefing](Briefing/Briefing.pdf)
