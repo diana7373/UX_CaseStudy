@@ -11,6 +11,7 @@
 >>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
 
 ## 1.User research plan
+[User Research Plan](UserResearchPlan/UserResearchPlan.pdf)
 
 ## 2.Competitor Analysis
 
