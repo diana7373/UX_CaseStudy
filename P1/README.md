@@ -9,3 +9,15 @@
 
 >>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
 >>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
+
+## 1.User research plan
+
+## 2.Competitor Analysis
+
+## 3.Personas
+
+## 4.Journey map
+
+## 5.Usability review
+
+## 6.Briefing
