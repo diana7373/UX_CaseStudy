@@ -14,6 +14,7 @@
 [User Research Plan](UserResearchPlan/UserResearchPlan.pdf)
 
 ## 2.Competitor Analysis
+[Competitor Analysis](CompetitorAnalysis/CompetitorAnalysis.png)
 
 ## 3.Personas
 
