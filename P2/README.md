@@ -36,7 +36,7 @@
 ### TASK ANALYSIS
 * User Task Matrix (?) 
 * User/Task flow
-[User/Task flow]()
+[User/Task flow](TaskAnalysis/Flowmap.png)
 
 ### ARQUITECTURA DE INFORMACIÓN
 * Sitemap 
