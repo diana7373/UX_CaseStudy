@@ -31,7 +31,7 @@
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
-[ScopeCanvas]()
+[ScopeCanvas](PropuestaValor/Propuesta.jpg)
 
 ### TASK ANALYSIS
 * User Task Matrix (?) 
