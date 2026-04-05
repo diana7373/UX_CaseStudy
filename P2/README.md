@@ -27,7 +27,7 @@
 
 ### Ideación
 * Mapa de empatía
-[Mapa de empatía]()
+[Mapa de empatía](Ideacion/EmpathyMap.pdf)
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
