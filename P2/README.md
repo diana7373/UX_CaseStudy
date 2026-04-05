@@ -25,6 +25,28 @@
 ### Prototipo Lo-FI Wireframe 
 
 
+### Ideación
+* Mapa de empatía
+[Mapa de empatía]()
+
+### PROPUESTA DE VALOR
+* ScopeCanvas
+[ScopeCanvas]()
+
+### TASK ANALYSIS
+* User Task Matrix (?) 
+* User/Task flow
+[User/Task flow]()
+
+### ARQUITECTURA DE INFORMACIÓN
+* Sitemap 
+* Labelling 
+[Sitemap]()
+[Labelling ]()
+
+### Prototipo Lo-FI Wireframe 
+[Prototipo Lo-FI Wireframe]()
+
 ### Conclusiones  
 (incluye valoración de esta etapa)
 
