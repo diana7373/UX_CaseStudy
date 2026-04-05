@@ -27,22 +27,22 @@
 
 ### Ideación
 * Mapa de empatía
-[Mapa de empatía](Ideacion/EmpathyMap.pdf)
+* [Mapa de empatía](Ideacion/EmpathyMap.pdf)
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
-[ScopeCanvas](PropuestaValor/Propuesta.jpg)
+* [ScopeCanvas](PropuestaValor/Propuesta.jpg)
 
 ### TASK ANALYSIS
 * User Task Matrix (?) 
 * User/Task flow
-[User/Task flow](TaskAnalysis/Flowmap.png)
+* [User/Task flow](TaskAnalysis/Flowmap.png)
 
 ### ARQUITECTURA DE INFORMACIÓN
 * Sitemap 
 * Labelling 
-[Sitemap]()
-[Labelling ]()
+* [Sitemap]()
+* [Labelling ]()
 
 ### Prototipo Lo-FI Wireframe 
 [Prototipo Lo-FI Wireframe]()
