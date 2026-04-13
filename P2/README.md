@@ -23,8 +23,8 @@
 * [Sitemap](Sitemap/sitemap.png)
 * [Labelling ](Labelling/labelling.png)
 
-### Prototipo Lo-FI Wireframe 
-[Prototipo Lo-FI Wireframe]()
+### Prototipo Lo-FI Wireframe
+[Wireframe Página Principal](Wireframes/wireframePrincipal.png)
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
