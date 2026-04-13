@@ -39,9 +39,7 @@
 * [User/Task flow](TaskAnalysis/Flowmap.png)
 
 ### ARQUITECTURA DE INFORMACIÓN
-* Sitemap 
-* Labelling 
-* [Sitemap]()
+* [Sitemap](Sitemap/sitemap.png)
 * [Labelling ]()
 
 ### Prototipo Lo-FI Wireframe 
