@@ -6,36 +6,17 @@
 * Point of View 
 
 
-### PROPUESTA DE VALOR
-* ScopeCanvas
-
-
-### TASK ANALYSIS
-
-* User Task Matrix 
-* User/Task flow
-
-
-### ARQUITECTURA DE INFORMACIÓN
-
-* Sitemap 
-* Labelling 
-
-
 ### Prototipo Lo-FI Wireframe 
 
 
 ### Ideación
-* Mapa de empatía
 * [Mapa de empatía](Ideacion/EmpathyMap.pdf)
 
 ### PROPUESTA DE VALOR
-* ScopeCanvas
 * [ScopeCanvas](PropuestaValor/Propuesta.jpg)
 
 ### TASK ANALYSIS
 * User Task Matrix (?) 
-* User/Task flow
 * [User/Task flow](TaskAnalysis/Flowmap.png)
 
 ### ARQUITECTURA DE INFORMACIÓN
