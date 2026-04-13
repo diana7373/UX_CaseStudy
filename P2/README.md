@@ -25,6 +25,7 @@
 
 ### Prototipo Lo-FI Wireframe
 * [Wireframe Página Principal](Wireframes/wireframePrincipal.png)
+* [Wireframe Propuesta de Valor](Wireframes/wireframe_personalizado.png)
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
