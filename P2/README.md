@@ -21,7 +21,7 @@
 
 ### ARQUITECTURA DE INFORMACIÓN
 * [Sitemap](Sitemap/sitemap.png)
-* [Labelling ]()
+* [Labelling ](Labelling/labelling.png)
 
 ### Prototipo Lo-FI Wireframe 
 [Prototipo Lo-FI Wireframe]()
