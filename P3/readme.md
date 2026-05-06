@@ -7,10 +7,10 @@
 
 
 ### Moodboard (diseño visual + logotipo) 
-* [Mapa de empatía](Ideacion/EmpathyMap.pdf)
+* [Moodboard](Moodboard/Moodboard.jpg)
 
 ### Landing Page
-
+* [Landing Page](LandingPage/LandingPageExplicacion.pdf)
 
 ### Design System
 
@@ -18,3 +18,4 @@
 ### Layout HI-FI
 
 ### Briefing
+* [Briefing](Breafing/Briefing.pdf)
