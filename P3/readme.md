@@ -19,4 +19,4 @@
 * [Layout HI-FI](LayoutHI-FI/Layout.pdf)
 
 ### Briefing
-* [Briefing](Briafing/Briefing_p3.pdf)
+* [Briefing](Briefing/Briefing_p3.pdf)
