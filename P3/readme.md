@@ -13,9 +13,10 @@
 * [Landing Page](LandingPage/LandingPageExplicacion.pdf)
 
 ### Design System
-
+* [Design System](DesignSystem/DesignSystem.pdf)
 
 ### Layout HI-FI
+* [Layout HI-FI](LayoutHI-FI/Layout.pdf)
 
 ### Briefing
 * [Briefing](Breafing/Briefing.pdf)
