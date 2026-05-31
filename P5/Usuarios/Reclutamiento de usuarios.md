@@ -16,7 +16,7 @@ Siguiendo las indicaciones de la práctica, se plantea un reclutamiento de **10 
 | Marcos | Masculino / 29 | Ingeniero de software | Alta | Directo y orientado a tareas | Web | A |
 | Elena | Femenino / 48 | Auxiliar administrativa | Baja | Cauta y poco habituada a interfaces complejas | Móvil | A |
 | Laura | Femenino / 36 | Profesora de instituto | Media | Reflexiva y organizada | Web | B |
-| Javier | Masculino / 20 | Estudiante de grado | Alta | Impulsivo y rápido navegando | Móvil | B |
+| Javier | Masculino / 20 | Estudiante de grado | Media | Impulsivo y rápido navegando | Móvil | B |
 | Paula | Femenino / 28 | Arquitecta | Alta | Visual y crítica con la estética | Web | B |
 | Roberto | Masculino / 44 | Agente inmobiliario | Media | Práctico y poco paciente | Móvil | B |
 | Teresa | Femenino / 59 | Funcionaria jubilada | Baja | Cautelosa y necesita instrucciones claras | Web | B |
