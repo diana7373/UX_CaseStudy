@@ -5,6 +5,7 @@
 - Mockup: LAYOUT HI-FI
 - Publicación del Case Study
 
+https://www.figma.com/design/IQhPdsz6sgAnUKHJVMbrrB/New-Goiko?node-id=8106-125&t=J8xvtn6fkhtu2d1f-1
 
 ### Moodboard (diseño visual + logotipo) 
 * [Moodboard](Moodboard/Moodboard.jpg)
