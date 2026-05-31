@@ -4,7 +4,7 @@ Para esta prueba comparativa, se ha seleccionado a un hombre y una mujer para ca
 
 **Caso A: Cyber-Gourmet**
 
-* **Usuario 1 (Mujer):** Laura, 36 años, Profesora de Instituto. (Experiencia TIC: Media)
+* **Usuario 1 (Mujer):** Laura, 36 años, Docente. (Experiencia TIC: Media)
 * **Usuario 2 (Hombre):** Carlos, 21 años, Estudiante de Ingeniería Informática. (Experiencia TIC: Media)
 
 **Caso B: Punto Café (LecheConCafé)**
