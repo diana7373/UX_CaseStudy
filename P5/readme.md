@@ -10,3 +10,42 @@ Puntos fuertes y de mejora relativos a los criterios de accesibilidad de tu dise
 
 >>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
 >>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+
+
+
+# Reclutamiento de usuarios
+
+Para la evaluación se comparan dos casos:
+
+* **Caso A:** Cyber Gourmet, nuestra propuesta de aplicación web de alta tecnología y estética neón enfocada en la personalización inmersiva de comida.
+* **Caso B:** Punto Café, proyecto asignado para la comparación, centrado en una cafetería de especialidad tradicional que cuenta con un catálogo de e-commerce.
+
+Siguiendo las indicaciones de la práctica, se plantea un reclutamiento de **10 participantes**, asignando **5 usuarios al Caso A** y **5 usuarios al Caso B**. Los perfiles seleccionados combinan distintas edades, niveles de experiencia tecnológica y formas de navegación, con el objetivo de observar problemas de usabilidad, comprensión, navegación y jerarquía visual.
+
+| Usuarios | Sexo/Edad | Ocupación | Exp.TIC | Personalidad | Plataforma | Caso |
+| --- | --- | --- | --- | --- | --- | --- |
+| Sofía | M / 23 | Diseñadora Gráfica | Alta | Visual y curiosa | Web | A |
+| Carlos | H / 55 | Gerente de Logística | Media | Práctico e impaciente | Móvil | A |
+| Lucía | M / 21 | Estudiante de Enfermería | Media | Organizada y observadora | Móvil | A |
+| Marcos | H / 29 | Ingeniero de software | Alta | Directo y orientado a tareas | Web | A |
+| Elena | M / 48 | Auxiliar administrativa | Baja | Cauta y poco habituada a interfaces complejas | Móvil | A |
+| Laura | M / 36 | Profesora de instituto | Media | Reflexiva y organizada | Web | B |
+| Javier | H / 20 | Estudiante de grado | Alta | Impulsivo y rápido navegando | Móvil | B |
+| Paula | M / 28 | Arquitecta | Alta | Visual y crítica con la estética | Web | B |
+| Roberto | H / 44 | Agente inmobiliario | Media | Práctico y poco paciente | Móvil | B |
+| Teresa | M / 59 | Funcionaria jubilada | Baja | Cautelosa y necesita instrucciones claras | Web | B |
+
+## Posibles situaciones conflictivas
+
+| Usuario | Posible situación conflictiva |
+| --- | --- |
+| Sofía | Puede centrarse excesivamente en los detalles estéticos del futuro neón y los *Daily Quests* en lugar de completar la tarea principal de personalización. |
+| Carlos | Puede tener dificultades en móvil para identificar el botón "Hackear Pedido" o comprender las opciones de personalización no tradicionales. |
+| Lucía | Puede necesitar más confirmación antes de avanzar debido a la terminología temática ("Build Mode"), buscando información práctica y precios claros. |
+| Marcos | Puede abandonar rápido si el flujo de personalización ("Construye tu arsenal") requiere demasiados clics para completarse. |
+| Elena | Puede sentirse abrumada por la cantidad de opciones simultáneas y el estilo visual saturado en la vista móvil. |
+| Laura | Puede dedicar demasiado tiempo a comprender la organización de las sucursales ("Locales" y "Tostadero") antes de encontrar la tienda. |
+| Javier | Puede navegar demasiado rápido por el catálogo y saltarse el producto específico que necesita encontrar o los filtros de búsqueda. |
+| Paula | Puede encontrar la presentación del catálogo de productos excesivamente simplista, perdiendo interés rápido en la tarea. |
+| Roberto | Puede frustrarse si el proceso de agregar al carrito no es intuitivo o si los campos de detalles visualmente parecen editables y no lo son. |
+| Teresa | Puede tener dificultades para diferenciar qué información es crítica en la vista de producto y necesitar instrucciones explícitas. |
