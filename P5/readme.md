@@ -22,18 +22,18 @@ Para la evaluación se comparan dos casos:
 
 Siguiendo las indicaciones de la práctica, se plantea un reclutamiento de **10 participantes**, asignando **5 usuarios al Caso A** y **5 usuarios al Caso B**. Los perfiles seleccionados combinan distintas edades, niveles de experiencia tecnológica y formas de navegación, con el objetivo de observar problemas de usabilidad, comprensión, navegación y jerarquía visual.
 
-| Usuarios | Sexo/Edad | Ocupación | Exp.TIC | Personalidad | Plataforma | Caso |
+| Usuarios | Género/Edad | Ocupación | Exp.TIC | Personalidad | Plataforma | Caso |
 | --- | --- | --- | --- | --- | --- | --- |
-| Yaiza | M / 21 | Estudiante de Ingeniería Informática | Alta | Emocional | Web | A |
-| Carlos | H / 21 | Estudiante de Ingeniería Informática | Alta | Práctico e impaciente | Móvil | A |
-| Pablo | H / 21 | Estudiante de Ingeniería Informática | Alta | Organizada y observadora | Móvil | A |
-| Marcos | H / 29 | Ingeniero de software | Alta | Directo y orientado a tareas | Web | A |
-| Elena | M / 48 | Auxiliar administrativa | Baja | Cauta y poco habituada a interfaces complejas | Móvil | A |
-| Laura | M / 36 | Profesora de instituto | Media | Reflexiva y organizada | Web | B |
-| Javier | H / 20 | Estudiante de grado | Alta | Impulsivo y rápido navegando | Móvil | B |
-| Paula | M / 28 | Arquitecta | Alta | Visual y crítica con la estética | Web | B |
-| Roberto | H / 44 | Agente inmobiliario | Media | Práctico y poco paciente | Móvil | B |
-| Teresa | M / 59 | Funcionaria jubilada | Baja | Cautelosa y necesita instrucciones claras | Web | B |
+| Yaiza | Femenino / 21 | Estudiante de Ingeniería Informática | Alta | Emocional | Web | A |
+| Carlos | Masculino / 21 | Estudiante de Ingeniería Informática | Alta | Práctico e impaciente | Móvil | A |
+| Pablo | Masculino / 21 | Estudiante de Ingeniería Informática | Alta | Organizada y observadora | Móvil | A |
+| Marcos | Masculino / 29 | Ingeniero de software | Alta | Directo y orientado a tareas | Web | A |
+| Elena | Femenino / 48 | Auxiliar administrativa | Baja | Cauta y poco habituada a interfaces complejas | Móvil | A |
+| Laura | Femenino / 36 | Profesora de instituto | Media | Reflexiva y organizada | Web | B |
+| Javier | Masculino / 20 | Estudiante de grado | Alta | Impulsivo y rápido navegando | Móvil | B |
+| Paula | Femenino / 28 | Arquitecta | Alta | Visual y crítica con la estética | Web | B |
+| Roberto | Masculino / 44 | Agente inmobiliario | Media | Práctico y poco paciente | Móvil | B |
+| Teresa | Femenino / 59 | Funcionaria jubilada | Baja | Cautelosa y necesita instrucciones claras | Web | B |
 
 ## Posibles situaciones de conflicto
 
