@@ -10,7 +10,7 @@ Para esta prueba comparativa, se ha seleccionado a un hombre y una mujer para ca
 **Caso B: Punto Café (LecheConCafé)**
 
 * **Usuario 3 (Mujer):** Paula, 28 años, Arquitecta. (Experiencia TIC: Media)
-* **Usuario 4 (Hombre):** Luis, 28 años, Contable. (Experiencia TIC: Media)
+* **Usuario 4 (Hombre):** Javier, 20 años, Estudiante de Grado. (Experiencia TIC: Media)
 
 ---
 
