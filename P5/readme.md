@@ -26,7 +26,7 @@ Siguiendo las indicaciones de la práctica, se plantea un reclutamiento de **10 
 | --- | --- | --- | --- | --- | --- | --- |
 | Yaiza | M / 21 | Estudiante de Ingeniería Informática | Alta | Emocional | Web | A |
 | Carlos | H / 21 | Estudiante de Ingeniería Informática | Alta | Práctico e impaciente | Móvil | A |
-| Pablo | M / 21 | Estudiante de Ingeniería Informática | Alta | Organizada y observadora | Móvil | A |
+| Pablo | H / 21 | Estudiante de Ingeniería Informática | Alta | Organizada y observadora | Móvil | A |
 | Marcos | H / 29 | Ingeniero de software | Alta | Directo y orientado a tareas | Web | A |
 | Elena | M / 48 | Auxiliar administrativa | Baja | Cauta y poco habituada a interfaces complejas | Móvil | A |
 | Laura | M / 36 | Profesora de instituto | Media | Reflexiva y organizada | Web | B |
