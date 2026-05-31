@@ -4,8 +4,8 @@ Para esta prueba comparativa, se ha seleccionado a un hombre y una mujer para ca
 
 **Caso A: Cyber-Gourmet**
 
-* **Usuario 1 (Mujer):** Marta, 25 años, Diseñadora UI. (Experiencia TIC: Alta)
-* **Usuario 2 (Hombre):** David, 32 años, Analista de Datos. (Experiencia TIC: Alta)
+* **Usuario 1 (Mujer):** Laura, 25 años, Diseñadora UI. (Experiencia TIC: Alta)
+* **Usuario 2 (Hombre):** Carlos, 21 años, Estudiante de Ingeniería Informática. (Experiencia TIC: Media)
 
 **Caso B: Punto Café (LecheConCafé)**
 
