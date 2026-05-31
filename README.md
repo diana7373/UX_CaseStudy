@@ -13,10 +13,6 @@ Actualizado: 14/01/2026
 
 
 
-## Paso 0 My UX-Case Study
-![Método UX](img/caseStudy.png) 
------
-
 
 Grupo: DIU3_Juashani.  Curso: 2025/26 
 
