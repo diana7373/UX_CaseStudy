@@ -22,6 +22,9 @@ Grupo: DIU3_Juashani.  Curso: 2025/26
 
 Nombre del Proyecto: Evaluación y desarrollo de Fast Food experience
 
+<img width="860" height="846" alt="image" src="https://github.com/user-attachments/assets/9945cd2e-837e-4488-9a87-1e155696db8d" />
+
+
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Diana Peven Kobtseva    :octocat: https://github.com/diana7373   
  * :bust_in_silhouette:  Beatriz Ruz Gómez     :octocat: https://github.com/BeatrizRuz
