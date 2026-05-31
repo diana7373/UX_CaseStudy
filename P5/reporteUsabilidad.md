@@ -6,10 +6,6 @@
 
 31 de mayo de 2026
 
-<img src="https://storage.googleapis.com/chat-cat-eu-west-1-prod-user-uploaded-files/0dfd56c4-49fd-4bc2-b725-ea9ee9a2ade2.png" alt="Landing Page Punto Café" style="height:250px" />
-
-[Enlace a GITHUB del proyecto: Simulación en entorno local / No disponible]
-
 ### Realizado por:  
 Equipo de UX/UI Asignado. Especialistas en evaluación heurística, accesibilidad web y análisis biométrico (Eye Tracking). Contamos con experiencia validando flujos de e-commerce y optimizando la tasa de conversión y la experiencia de usuario.
 
