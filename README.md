@@ -22,21 +22,10 @@ Grupo: DIU3_Juashani.  Curso: 2025/26
 
 Nombre del Proyecto: Evaluación y desarrollo de Fast Food experience
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
-
-Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
-
-Logotipo: 
-
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
-
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Diana Peven Kobtseva    :octocat: https://github.com/diana7373   
  * :bust_in_silhouette:  Beatriz Ruz Gómez     :octocat: https://github.com/BeatrizRuz
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
 ----- 
 
