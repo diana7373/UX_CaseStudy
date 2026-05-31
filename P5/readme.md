@@ -24,9 +24,9 @@ Siguiendo las indicaciones de la práctica, se plantea un reclutamiento de **10 
 
 | Usuarios | Sexo/Edad | Ocupación | Exp.TIC | Personalidad | Plataforma | Caso |
 | --- | --- | --- | --- | --- | --- | --- |
-| Sofía | M / 23 | Diseñadora Gráfica | Alta | Visual y curiosa | Web | A |
-| Carlos | H / 55 | Gerente de Logística | Media | Práctico e impaciente | Móvil | A |
-| Lucía | M / 21 | Estudiante de Enfermería | Media | Organizada y observadora | Móvil | A |
+| Yaiza | M / 21 | Estudiante de Ingeniería Informática | Alta | Emocional | Web | A |
+| Carlos | H / 21 | Estudiante de Ingeniería Informática | Alta | Práctico e impaciente | Móvil | A |
+| Pablo | M / 21 | Estudiante de Ingeniería Informática | Alta | Organizada y observadora | Móvil | A |
 | Marcos | H / 29 | Ingeniero de software | Alta | Directo y orientado a tareas | Web | A |
 | Elena | M / 48 | Auxiliar administrativa | Baja | Cauta y poco habituada a interfaces complejas | Móvil | A |
 | Laura | M / 36 | Profesora de instituto | Media | Reflexiva y organizada | Web | B |
@@ -35,13 +35,13 @@ Siguiendo las indicaciones de la práctica, se plantea un reclutamiento de **10 
 | Roberto | H / 44 | Agente inmobiliario | Media | Práctico y poco paciente | Móvil | B |
 | Teresa | M / 59 | Funcionaria jubilada | Baja | Cautelosa y necesita instrucciones claras | Web | B |
 
-## Posibles situaciones conflictivas
+## Posibles situaciones de conflicto
 
-| Usuario | Posible situación conflictiva |
+| Usuario | Posible situación de conflicto |
 | --- | --- |
-| Sofía | Puede centrarse excesivamente en los detalles estéticos del futuro neón y los *Daily Quests* en lugar de completar la tarea principal de personalización. |
+| Yaiza | Puede centrarse excesivamente en los detalles estéticos del futuro neón y los *Daily Quests* en lugar de completar la tarea principal de personalización. |
 | Carlos | Puede tener dificultades en móvil para identificar el botón "Hackear Pedido" o comprender las opciones de personalización no tradicionales. |
-| Lucía | Puede necesitar más confirmación antes de avanzar debido a la terminología temática ("Build Mode"), buscando información práctica y precios claros. |
+| Pablo | Puede necesitar más confirmación antes de avanzar debido a la terminología temática ("Build Mode"), buscando información práctica y precios claros. |
 | Marcos | Puede abandonar rápido si el flujo de personalización ("Construye tu arsenal") requiere demasiados clics para completarse. |
 | Elena | Puede sentirse abrumada por la cantidad de opciones simultáneas y el estilo visual saturado en la vista móvil. |
 | Laura | Puede dedicar demasiado tiempo a comprender la organización de las sucursales ("Locales" y "Tostadero") antes de encontrar la tienda. |
