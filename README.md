@@ -47,14 +47,6 @@ Miembros y nombre del equipo:
 
 ## Conclusiones finales & Valoración de las prácticas
 
-Sí, como IA mantengo el contexto de nuestra sesión, así que recuerdo perfectamente todo el trabajo que hemos estado haciendo con Cyber-Gourmet, la comparativa con Punto Café, los perfiles de usuario y las tablas SUS.
-
-Aquí tienes la redacción para la sección final de tu `Readme.md`, estructurada para ser profesional, analítica y recogiendo explícitamente el detalle de la falta de evaluación externa. Puedes copiar y pegar este bloque directamente:
-
----
-
-## Conclusiones finales & Valoración de las prácticas
-
 **Opinión del proceso de desarrollo y metodología UX:**
 El desarrollo de este proyecto bajo una metodología UX estructurada ha supuesto un cambio de paradigma respecto al diseño puramente estético o funcional. Seguir un proceso iterativo —desde la investigación inicial y el *Journey Map*, pasando por la ideación visual en Figma con un estilo neobrutalista y futurista, hasta llegar al prototipado y las pruebas con usuarios reales— ha demostrado que las suposiciones del equipo de diseño rara vez coinciden al 100% con el modelo mental del usuario final.
 
