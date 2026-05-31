@@ -1,8 +1,4 @@
-Aquí tienes la tabla optimizada y sin celdas vacías, diseñada para verse limpia y profesional en tu `README.md`. He separado tu perfil como evaluador en la parte superior para que la tabla del cuestionario quede más compacta.
-
-### Evaluación SUS (Auto-evaluación)
-
-**Perfil del Evaluador:** Estudiante de Ingeniería Informática | **Experiencia TIC:** Alta
+### Evaluación SUS
 
 | # | Cuestionario SUS (1 = Totalmente en desacuerdo / 5 = Totalmente de acuerdo) | Caso A (Cyber-Gourmet) | Caso B (Punto Café) |
 | --- | --- | --- | --- |
