@@ -47,20 +47,20 @@ Miembros y nombre del equipo:
 
 ## Conclusiones finales & Valoración de las prácticas
 
-**Opinión del proceso de desarrollo y metodología UX:**
-El desarrollo de este proyecto bajo una metodología UX estructurada ha supuesto un cambio de paradigma respecto al diseño puramente estético o funcional. Seguir un proceso iterativo —desde la investigación inicial y el *Journey Map*, pasando por la ideación visual en Figma con un estilo neobrutalista y futurista, hasta llegar al prototipado y las pruebas con usuarios reales— ha demostrado que las suposiciones del equipo de diseño rara vez coinciden al 100% con el modelo mental del usuario final.
+**Opinión del proceso de diseño y método de trabajo:**
+Aprender a diseñar pensando primero en el usuario ha sido un gran cambio frente a solo hacer cosas estéticas o que simplemente funcionen a nivel de código. Seguir todo el proceso paso a paso —desde investigar y entender qué quiere la gente, hasta dibujar las pantallas en Figma y probarlas con personas reales— nos ha enseñado que lo que nosotras creemos que es intuitivo, muchas veces no es lo que el usuario final realmente espera o necesita.
 
 **Valoración de los resultados obtenidos:**
 
-* **Positiva:** La metodología nos ha permitido identificar fricciones cognitivas en etapas tempranas. En el caso de **Cyber-Gourmet**, la fuerte carga temática (términos como "Build Mode" o "Hackear Pedido") lograba el objetivo de inmersión, pero gracias a los test de usabilidad (como el cuestionario SUS y las métricas de navegación), pudimos medir exactamente dónde esa inmersión empezaba a penalizar la agilidad del *e-commerce*.
-* **Negativa/Dificultades:** La mayor dificultad de la metodología radica en la captación de usuarios que representen fielmente el *target* y en aislar los sesgos propios a la hora de interpretar datos biométricos y mapas de calor.
+* **Positivo:** Con nuestra propuesta, **Cyber-Gourmet**, conseguimos crear un ambiente futurista muy inmersivo. Gracias al estudio realizado con personas reales, pudimos darnos cuenta de en qué puntos esa decoración tan llamativa llegaba a despistar o hacer más lenta la compra.
+* **Negativo:** Lo más complicado de todo este proceso ha sido intentar aprender como se usan nuevas herramientas, la organización y comprensión de las prácticas y ser totalmente objetivas al analizar por dónde se navega.
 
-**Incidencia en la co-evaluación (Usability Report):**
-Para la fase final del Case Study, estaba prevista la revisión del informe de usabilidad (*Usability Report*) elaborado por otro grupo sobre nuestra propuesta (Caso A). Sin embargo, tras revisar el foro habilitado y los repositorios correspondientes, **ningún grupo ha evaluado nuestro proyecto**. Por lo tanto, las conclusiones iterativas y el análisis de mejoras de Cyber-Gourmet se han tenido que extraer exclusivamente de nuestras propias métricas, la autoevaluación heurística y las pruebas de guerrilla realizadas por nuestro equipo, perdiendo la valiosa perspectiva no sesgada de una auditoría externa.
+**Incidencia con la evaluación de los compañeros:**
+Tras mirar en el foro y en los repositorios, hemos comprobado que **ningún grupo nos ha evaluado**. Todas las conclusiones y mejoras que hemos sacado para Cyber-Gourmet vienen de nuestra autoevaluacion.
 
 **¿Qué se puede mejorar?**
-De cara a futuras iteraciones, el principal punto de mejora es equilibrar la identidad visual disruptiva con los estándares de accesibilidad y usabilidad convencionales. Se debe refinar la jerarquía visual en dispositivos móviles para que las llamadas a la acción (CTAs) principales destaquen por encima de los elementos puramente decorativos del "futuro neón", asegurando que la interfaz reaccione de forma clara e inmediata a las interacciones del usuario en cualquier escenario.
-
+Para nuestra prática hay mucho ámbito de mejora ya que no está totalmente desarrollada y los botones no tienen funcionalidades por lo que no hay una navegabilidad real. 
+Respecto al planteamiento de las prácticas, creemos que debería de tenerse en cuenta el tiempo disponible y redactar los guiones en base a ello.
 
 
 
