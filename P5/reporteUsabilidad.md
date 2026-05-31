@@ -6,6 +6,8 @@
 
 31 de mayo de 2026
 
+https://github.com/CarlosLinero9/UX_CaseStudy.git
+
 ### Realizado por:  
 Equipo de UX/UI Asignado. Especialistas en evaluación heurística, accesibilidad web y análisis biométrico (Eye Tracking). Contamos con experiencia validando flujos de e-commerce y optimizando la tasa de conversión y la experiencia de usuario.
 
